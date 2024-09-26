@@ -1,0 +1,37 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-size: medium;
+}
+
+.logo {
+  width: 200px;
+  padding: 5px;
+}
+.logoorangje {
+  border-bottom: #00283c solid 1px;
+}
+h1 {
+  color: #fa6432;
+  font-size: 2em;
+}
+p {
+  color: #00283c;
+  padding: 15px;
+}
+a {
+  color: #00283c;
+}
+a:hover {
+  color: #fa6432;
+}
+.donkerblauw {
+  background-color: #00283c;
+  margin-top: 10px;
+}
+.logowit {
+  width: 200px;
+  padding: 8px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

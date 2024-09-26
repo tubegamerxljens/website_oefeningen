@@ -1,0 +1,31 @@
+ul {
+  background-color: black;
+  width: 20rem;
+}
+
+li {
+  float: left;
+  overflow: hidden;
+  padding: 8px;
+  height: 100%;
+  text-align: center;
+  display: block;
+}
+.Home {
+  background-color: #04aa6d;
+}
+.News,
+.Contact,
+.About {
+  background-color: black;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+li:hover {
+  background-color: #111;
+}
+.Home:active {
+  background-color: #04aa6d;
+}

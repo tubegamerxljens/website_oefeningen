@@ -1,0 +1,25 @@
+body {
+  font-family: serif;
+  font-size: medium;
+  color: #00283c;
+}
+ul {
+  background-color: #00283c;
+}
+ol {
+  background-color: #fa6432;
+  color: white;
+}
+.container {
+  padding: 20px;
+  width: 400px;
+  background-color: #fa6432;
+}
+.foto {
+  width: 400px;
+}
+
+li {
+  margin: 0;
+  padding: 3px;
+}

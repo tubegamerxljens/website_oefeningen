@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff;
+  margin: 15;
+}
+h1 {
+  font-size: 2em;
+  color: #fa6432;
+}
+hr {
+  background-color: #00283c;
+  height: 1px;
+}
+
+.foto {
+  border-radius: 5%;
+  margin: 15px;
+  float: left;
+  opacity: 0.5;
+}
+.foto:hover {
+  opacity: 1;
+  box-shadow: 4px 4px 4px #fa6432;
+}

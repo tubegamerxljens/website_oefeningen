@@ -1,0 +1,38 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+table {
+  border: solid #00283c 1px;
+  border-collapse: collapse;
+}
+
+table tr.rij1 td {
+  background-color: orangered;
+  color: white;
+  border: 1px solid #00283c;
+  text-align: center;
+  font-weight: bold;
+}
+table tr.rij2 td.vm {
+  color: white;
+  background-color: black;
+  height: 50px;
+}
+table tr.rij2 td {
+  border: solid #00283c 1px;
+}
+table tr.rij3 td.nm {
+  color: white;
+  background-color: black;
+  height: 50px;
+  width: 75px;
+}
+table tr.rij3 td {
+  border: solid #00283c 1px;
+}
+#eerste {
+  height: 50px;
+  width: 75px;
+}

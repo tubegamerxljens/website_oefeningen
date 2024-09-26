@@ -1,0 +1,13 @@
+a {
+  color: #00283c;
+  text-decoration: none;
+}
+a:hover {
+  color: #fa6432;
+}
+h1 {
+  color: #fa6432;
+}
+a:visited {
+  text-decoration: solid;
+}

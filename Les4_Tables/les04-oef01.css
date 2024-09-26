@@ -1,0 +1,22 @@
+table#oef1 {
+  border: solid grey 1px;
+  border-collapse: collapse;
+}
+hr {
+  height: 1px;
+  color: #00283c;
+  background-color: #00283c;
+}
+table th {
+  padding: 15px;
+  background-color: black;
+  color: white;
+}
+table td {
+  padding: 15px;
+  border: solid black 1px;
+  text-align: center;
+}
+caption {
+  caption-side: bottom;
+}
